@@ -1,8 +1,8 @@
 # Stock-Prediction
 This project is performed in two models:
 
-   *LSTM
-   *Monte Carlo Simulation
+* LSTM
+* Monte Carlo Simulation
 
 The models are performed from a dataframe which is extracted from yahoo finance for Apple Inc.
 
